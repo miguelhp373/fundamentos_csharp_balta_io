@@ -1,0 +1,112 @@
+# .NET Core
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nuget.props
+*.paket/paket.exe
+paket-files/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings
+
+## NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+## Installshield output folder
+[Ee]xpress/
+
+## DocProject is a documentation compiler add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+## Click-Once directory
+publish/
+*.publish.xml
+
+## Publish Web Output
+*.Publish.xml
+
+## Microsoft Azure Web App publish settings. Comment the next line if you want to check them in
+#PublishScripts/
+
+## Debug folder
+#debug/
+
+## Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+## Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+
+## Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## Visual Studio Code
+.vscode/
