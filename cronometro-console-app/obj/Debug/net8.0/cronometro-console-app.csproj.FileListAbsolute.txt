@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\bin\Debug\net8.0\cronometro-console-app.exe
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\bin\Debug\net8.0\cronometro-console-app.deps.json
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\bin\Debug\net8.0\cronometro-console-app.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\bin\Debug\net8.0\cronometro-console-app.dll
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\bin\Debug\net8.0\cronometro-console-app.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.sourcelink.json
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.dll
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\refint\cronometro-console-app.dll
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\cronometro-console-app.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documentos\Projetos\Cursos\fundamentos_csharp_balta_io\cronometro-console-app\obj\Debug\net8.0\ref\cronometro-console-app.dll
